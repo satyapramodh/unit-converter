@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, Main!</string>
+    <string name="app_name">Converter</string>
+    <string name="Centimeter">Centimeter</string>
+    <string name="Meter">Meter</string>
+    <string name="Kilometer">Kilometer</string>
+    <string name="Foot">Foot</string>
+    <string name="Inch">Inch</string>
+    <string name="Mile">Mile</string>
+    <string name="Yard">Yard</string>
+    <string name="Rupee">Rupee</string>
+    <string name="Dollar">Dollar</string>
+    <string name="Euro">Euro</string>
+    <string name="Yuan">Yuan</string>
+    <string name="Kelvin">Kelvin</string>
+    <string name="Celsius">Celsius</string>
+    <string name="Fahrenheit">Fahrenheit</string>
+    <string name="Note">Select any of the above conversion types and input values to get the conversion units.</string>
+    <string name="AboutUs">Developed by Abhilekh Gulpadia (10bce0285), Satya Pramodh (10bce0312), Ravi Rohith (10bce0330)</string>
+
+</resources>
